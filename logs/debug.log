@@ -1,0 +1,24 @@
+2019-03-11 16:32:48 [restartedMain] INFO  c.t.c.customer.CustomerApplication - Starting CustomerApplication on TriconnodeWS052 with PID 1908 (C:\Users\anupama.singh\Downloads\customer\target\classes started by anupama.singh in C:\Users\anupama.singh\Downloads\customer)
+2019-03-11 16:32:48 [restartedMain] DEBUG c.t.c.customer.CustomerApplication - Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.5.RELEASE
+2019-03-11 16:32:48 [restartedMain] INFO  c.t.c.customer.CustomerApplication - No active profile set, falling back to default profiles: default
+2019-03-11 16:32:49 [restartedMain] INFO  c.t.c.customer.CustomerApplication - Started CustomerApplication in 0.678 seconds (JVM running for 2710.965)
+2019-03-11 16:32:49 [restartedMain] ERROR c.t.c.customer.CustomerApplication - logged at error level
+2019-03-11 16:32:49 [restartedMain] WARN  c.t.c.customer.CustomerApplication - logged at warn level
+2019-03-11 16:32:49 [restartedMain] INFO  c.t.c.customer.CustomerApplication - logged at info level
+2019-03-11 16:32:49 [restartedMain] DEBUG c.t.c.customer.CustomerApplication - logged at debug level
+2019-03-11 16:33:05 [restartedMain] INFO  c.t.c.customer.CustomerApplication - Starting CustomerApplication on TriconnodeWS052 with PID 1908 (C:\Users\anupama.singh\Downloads\customer\target\classes started by anupama.singh in C:\Users\anupama.singh\Downloads\customer)
+2019-03-11 16:33:05 [restartedMain] DEBUG c.t.c.customer.CustomerApplication - Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.5.RELEASE
+2019-03-11 16:33:05 [restartedMain] INFO  c.t.c.customer.CustomerApplication - No active profile set, falling back to default profiles: default
+2019-03-11 16:33:06 [restartedMain] INFO  c.t.c.customer.CustomerApplication - Started CustomerApplication in 0.875 seconds (JVM running for 2727.631)
+2019-03-11 16:33:06 [restartedMain] ERROR c.t.c.customer.CustomerApplication - logged at error level
+2019-03-11 16:33:06 [restartedMain] WARN  c.t.c.customer.CustomerApplication - logged at warn level
+2019-03-11 16:33:06 [restartedMain] INFO  c.t.c.customer.CustomerApplication - logged at info level
+2019-03-11 16:33:06 [restartedMain] DEBUG c.t.c.customer.CustomerApplication - logged at debug level
+2019-03-11 16:36:42 [restartedMain] INFO  c.t.c.customer.CustomerApplication - Starting CustomerApplication on TriconnodeWS052 with PID 1908 (C:\Users\anupama.singh\Downloads\customer\target\classes started by anupama.singh in C:\Users\anupama.singh\Downloads\customer)
+2019-03-11 16:36:42 [restartedMain] DEBUG c.t.c.customer.CustomerApplication - Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.5.RELEASE
+2019-03-11 16:36:42 [restartedMain] INFO  c.t.c.customer.CustomerApplication - No active profile set, falling back to default profiles: default
+2019-03-11 16:36:43 [restartedMain] INFO  c.t.c.customer.CustomerApplication - Started CustomerApplication in 0.757 seconds (JVM running for 2944.998)
+2019-03-11 16:36:43 [restartedMain] ERROR c.t.c.customer.CustomerApplication - logged at error level
+2019-03-11 16:36:43 [restartedMain] WARN  c.t.c.customer.CustomerApplication - logged at warn level
+2019-03-11 16:36:43 [restartedMain] INFO  c.t.c.customer.CustomerApplication - logged at info level
+2019-03-11 16:36:43 [restartedMain] DEBUG c.t.c.customer.CustomerApplication - logged at debug level
